@@ -1,2 +1,2 @@
 # Canvas-Game
-Canvas game where users can write their name or draw on the canvas.
+Canvas game where users can write their name or draw on the canvas for kids.
